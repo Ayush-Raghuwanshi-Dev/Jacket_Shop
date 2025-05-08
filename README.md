@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Live Demo
-> [Click Here to View](https://your-username.github.io/Jacket_Shop/)
+>  https://ayush-raghuwanshi-dev.github.io/Jacket_Shop/
 
 ---
 
