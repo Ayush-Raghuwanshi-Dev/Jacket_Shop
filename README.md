@@ -1,4 +1,4 @@
-![{EB1E1A88-231B-44FF-A4D5-261767E1DE27}](https://github.com/user-attachments/assets/74080254-de9c-44aa-93b7-d0cb8cfa48f3)# 🧥 Jacket_Shop
+# 🧥 Jacket_Shop
 
 > **A modern, responsive, and stylish jacket shop homepage built using HTML and CSS only.**  
 > Perfect for beginners to practice layout, Flexbox, media queries, and hover interactions.
